@@ -18,8 +18,13 @@ la structure du projet :
         └── home.html
 
 
-server.py : contient le programme principal.
-swagger.yml : contient le descriptif des api
+server.py : contient le programme principal.  
+swagger.yml : contient le descriptif des api  
 people.py : contient les codes des services qui sont derriere chaque endpoint
 
 les repertoires static et templates contiennent le code du front.
+
+Les pre-requis pour faire fonctionner le projet :
+1. Python 3
+2. pip install flask
+3. pip install connexion[swagger-UI]

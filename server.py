@@ -1,4 +1,3 @@
-#!/Users/BRUNJ/.conda/envs/mesAPI/bin/python
 
 """
 Main module of the server file

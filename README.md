@@ -35,4 +35,5 @@ Les pre-requis pour faire fonctionner le projet :
 8. Consulter le site : http://127.0.0.1:5001/
 9. consulter la documentation des API : http://127.0.0.1:5001/api/ui
 
-Lancer l'application python
+
+ref : https://realpython.com/flask-connexion-rest-api/
